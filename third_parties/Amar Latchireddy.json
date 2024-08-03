@@ -1,0 +1,1 @@
+{"code": 400, "description": "LinkedIn URLs should be in the format of https://www.linkedin.com/<profile-id>", "name": "Bad Request"}

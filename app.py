@@ -1,12 +1,10 @@
-from flask import Flask, render_template, request, jsonify
 from dotenv import load_dotenv
-
-from ice_breaker import ice_break_with
+from flask import Flask, render_template, request, redirect, url_for, jsonify
+from linkedin_scrapper import Scrapper
 
 load_dotenv()
 
 app = Flask(__name__)
-
 
 @app.route("/")
 def index():
@@ -16,14 +14,10 @@ def index():
 @app.route("/process", methods=["POST"])
 def process():
     name = request.form["name"]
-    summary_and_facts, interests, ice_breakers, profile_pic_url = ice_break_with(
-        name=name
-    )
+    summary, profile_pic_url = Scrapper().linkedin_scrape(name=name)
     return jsonify(
         {
-            "summary_and_facts": summary_and_facts.to_dict(),
-            "interests": interests.to_dict(),
-            "ice_breakers": ice_breakers.to_dict(),
+            "summary_and_facts": summary.to_dict(),
             "picture_url": profile_pic_url,
         }
     )

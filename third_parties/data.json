@@ -1,0 +1,437 @@
+{
+  "public_identifier": "andriyburkov",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/andriyburkov/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240801%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240801T225722Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=00b8078ac426ef7406d291eda5d22d0959cc1b6737985e66ffb096af6b015cce",
+  "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/andriyburkov/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240801%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240801T225722Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7ee100b65e36e9c28bc44efdd8928b475d2739d0966637457ee2bd8e0497c901",
+  "first_name": "Andriy",
+  "last_name": "Burkov",
+  "full_name": "Andriy Burkov",
+  "follower_count": 392866,
+  "occupation": "Machine Learning Lead at TalentNeuron",
+  "headline": "ML at TalentNeuron, author of \ud83d\udcd6 The Hundred-Page Machine Learning Book and \ud83d\udcd6 the Machine Learning Engineering book",
+  "summary": "Read my bestselling \ud83d\udcd6 The Hundred-Page Machine Learning Book: http://themlbook.com.\n\nRead my new book \ud83d\udcd6 Machine Learning Engineering: http://mlebook.com.\n\nSubscribe to my weekly \u2709\ufe0f Artificial Intelligence newsletter: https://www.linkedin.com/newsletters/artificial-intelligence-6598352935271358464/ and to my weekly \u2709\ufe0f Data Science newsletter: https://www.linkedin.com/newsletters/7102511020270608384/\n\nAbout me:\n\nPh.D. in artificial intelligence, passionate about data, speaking English, French, and Russian. Solid scientific programming and team leadership skills. More than 20 years of experience working on various computing projects, including several own startups.\n\nMore than 15 years of practical hands-on experience in automated data analysis, machine learning, natural language processing, Linux hacking, database and search engine setup and querying.\n\nExpert in Python and Java with several years of day-to-day design and development in the big data context.\n\nSpecialties: machine learning, natural language processing, conversational interfaces (chatbots), information retrieval.",
+  "country": "CA",
+  "country_full_name": "Canada",
+  "city": "Qu\u00e9bec",
+  "state": "Quebec",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "TalentNeuron",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/talentneuron",
+      "company_facebook_profile_url": null,
+      "title": "Machine Learning Lead",
+      "description": "Leading the team of Machine Learning developers digging through the gigabytes of talent marketplace data.\n\nTools and techniques used: machine learning (deep/shallow, LLMs, classification, generative AI, clustering, topic modeling), regular expressions, Python, MySQL, scikit-learn, PyTorch.",
+      "location": "Greater Quebec City Metropolitan Area",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/talentneuron/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240801%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240801T225722Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=ddbad7252a73ad2c5efddb94de09f79177c2ffb15de6ed9313b8d2c34ffd5049"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2019
+      },
+      "ends_at": null,
+      "company": "True Positive Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/true-positive-inc",
+      "company_facebook_profile_url": null,
+      "title": "Author of the Machine Learning Engineering book",
+      "description": "\u201cIf you intend to use machine learning to solve business problems at scale, I'm delighted you got your hands on this book.\u201d\n\n\u2014Cassie Kozyrkov, Chief Decision Scientist at Google\n\n\u201cFoundational work about the reality of building machine learning models in production. Comes at the right time when companies start to see through the AI hype, realizing it takes a conscious engineering effort and best practices to make machine learning work. Another great book from Andriy!\u201d\n\n\u2014Karolis Urbonas, Head of Machine Learning and Science at Amazon\n\nReleased on Amazon, B&N, and Leanpub. Drafts are available on http://www.mlebook.com.",
+      "location": "Quebec, Canada",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/true-positive-inc/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240801%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240801T225722Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=07d167dca677b8704ff5a2a7c0c2a4e136b4ccada8cca98b33b88e7690d9bbcd"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": null,
+      "company": "True Positive Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/true-positive-inc",
+      "company_facebook_profile_url": null,
+      "title": "CEO and Author of The Hundred-Page Machine Learning Book",
+      "description": "Peter Norvig, Research Director at Google, co-author of AIMA, the most popular AI textbook in the world: \"Burkov has undertaken a very useful but impossibly hard task in reducing all of machine learning to 100 pages. He succeeds well in choosing the topics \u2014 both theory and practice \u2014 that will be useful to practitioners, and for the reader who understands that this is the first 100 (or actually 150) pages you will read, not the last, provides a solid introduction to the field.\"\n\nAur\u00e9lien G\u00e9ron, Senior AI Engineer, author of the bestseller Hands-On Machine Learning with Scikit-Learn and TensorFlow: \"The breadth of topics the book covers is amazing for just 100 pages (plus few bonus pages!). Burkov doesn't hesitate to go into the math equations: that's one thing that short books usually drop. I really liked how the author explains the core concepts in just a few words. The book can be very useful for newcomers in the field, as well as for old-timers who can gain from such a broad view of the field.\"",
+      "location": "Quebec, Canada",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/true-positive-inc/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240801%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240801T225722Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=07d167dca677b8704ff5a2a7c0c2a4e136b4ccada8cca98b33b88e7690d9bbcd"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2023
+      },
+      "company": "Gartner",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/gartner",
+      "company_facebook_profile_url": null,
+      "title": "Director of Data Science \u2014 Machine Learning Team Leader",
+      "description": "Leading a team working on \"hacking\" text and other unstructured or semi-structured data to extract useful information. Problems successfully solved by me and my team include:\n\n\u2014 conversational user interfaces (chatbots);\n\u2014 parsing of free-form r\u00e9sum\u00e9 to detect and extract candidate name, employers, skills, certifications, employment history;\n\u2014 parsing of job descriptions to detect and extract job title, salary, employer name, assign a standard occupation code;\n\u2014 automated noisy and multi-language data normalization, cleanup, deduplication;\n\u2014 novel data detection;\n\u2014 language detection / text segmentation by language;\n\u2014 sequence labeling (queries, addresses, salaries);\n\u2014 machine translation;\n\u2014 Web-data analysis.\n\nTools and techniques used: machine learning (deep/shallow, classification, clustering, topic modeling, structured output prediction), regular expressions, Java, Python, MySQL, scikit-learn, Keras.",
+      "location": "Quebec, Canada",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/gartner/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240801%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240801T225722Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=30fa460ec1938d7642c6367735571b77d10585905a413b0643d651acbeffb6eb"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2015
+      },
+      "company": "Wanted Technologies",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/wanted-technologies",
+      "company_facebook_profile_url": null,
+      "title": "Data Analyst",
+      "description": "Turning terabytes of job announcements from online job boards into structured knowledge: extraction and classification of skills, standardization of job titles, classification of job announcements by an occupational classification, extraction/cleanup of structured data (company names, proper names, salaries, skills, etc), extraction and standardization of postal addresses, fuzzy duplicate identification (announcements, skills).\n\nTools: linux shell scripting, MySQL, Sphinx, Python (scikit-learn, NLTK), Java.",
+      "location": "Quebec, Canada",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/wanted-technologies/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240801%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240801T225722Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=b4d37b3147ee08f19bc3d54110fbaea75a8c826cfc3f2e2672d5d6c222d09be8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2013
+      },
+      "company": "Fujitsu Canada",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fujitsu",
+      "company_facebook_profile_url": null,
+      "title": "Applied Scientist \u2014 Fujitsu Innovation Center",
+      "description": "Computer scientist with the focus on applying machine learning and natural language processing in the context of big data; technology intelligence lead.\n\nTechnologies: R, Python, Hadoop, HBase.",
+      "location": "Quebec, Canada",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/fujitsu/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240801%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240801T225722Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=4e26a6a5cbc17e2703fc2c617ed65b0743006717851ea99c9c358038060aa07a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2013
+      },
+      "company": "Fujitsu Canada",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fujitsu",
+      "company_facebook_profile_url": null,
+      "title": "Scientific Consultant",
+      "description": "Working on research contracts for the Defence Research and Development Canada (DRDC).\n\nResearch projects mostly turned around the problems of fusion of sensor data and intelligent software assistants.\n\nTechnologies: Scilab.",
+      "location": "Quebec, Canada",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/fujitsu/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240801%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240801T225722Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=4e26a6a5cbc17e2703fc2c617ed65b0743006717851ea99c9c358038060aa07a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "company": "Universit\u00e9 Laval",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/universite-laval",
+      "company_facebook_profile_url": null,
+      "title": "Student Researcher",
+      "description": "Research in multiagent systems resulted in multiple publications in top international conferences and journals (AAMAS, AAAI, Journal of Algorithms).",
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/universite-laval/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240801%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240801T225722Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=de4b4bcb36b6e07b08ed75726b64bb975f031ff1361bca9b728667ecc6574203"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "field_of_study": "Computer Science \u2014 Artificial Intelligence",
+      "degree_name": "PhD",
+      "school": "Universit\u00e9 Laval",
+      "school_linkedin_profile_url": "https://www.linkedin.com/company/universite-laval",
+      "school_facebook_profile_url": null,
+      "description": "Thesis: Leveraging Repeated Games for Solving Complex Multiagent Decision Problems\n\nTopics:\n\u2014 Multiagent systems;\n\u2014 Decision making under uncertainty;\n\u2014 Computational game theory.\n\nTechnologies and tools: Java, OptimJ, and ILOG CPLEX.",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/universite-laval/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240801%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240801T225723Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=943e898873036694cc6d1ed5d91f1945eb3553fd2eaedc66c9a00e0a6eb9f9d6",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "field_of_study": "Computer Science \u2014 Artificial Intelligence",
+      "degree_name": "MSc",
+      "school": "Universit\u00e9 Laval",
+      "school_linkedin_profile_url": "https://www.linkedin.com/company/universite-laval",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/universite-laval/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240801%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240801T225723Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=943e898873036694cc6d1ed5d91f1945eb3553fd2eaedc66c9a00e0a6eb9f9d6",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2002
+      },
+      "field_of_study": "Computer Engineering and Networking",
+      "degree_name": "BSc",
+      "school": "Sevastopol State Technical University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/company/1133300/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/sevastopol-national-technical-university/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240801%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240801T225723Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=e9929097d6c3fe000973c854b11a232deac7ea4ed5246283fa239b66983701df",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Java",
+    "Python",
+    "Russian"
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [
+    {
+      "name": "An Approximate Subgame-Perfect Equilibrium Computation Technique for Repeated Games",
+      "publisher": "In Proceedings of AAAI-10 Twenty-Fourth Conference on Artificial Intelligence",
+      "published_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "description": "This paper presents a technique for approximating, up to any precision, the set of subgame-perfect equilibria (SPE) in repeated games with discounting. The process starts with a single hypercube approximation of the set of SPE payoff profiles. Then the initial hypercube is gradually partitioned on to a set of smaller adjacent hypercubes, while those hypercubes that cannot contain any SPE point are gradually withdrawn. Whether a given hypercube can contain an equilibrium point is verified by an appropriate mixed integer program. A special attention is paid to the question of extracting players\u2019 strategies and their representability in form of finite automata.",
+      "url": "http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1769id/2076"
+    },
+    {
+      "name": "Effective learning in the presence of adaptive counterparts",
+      "publisher": "Journal of Algorithms",
+      "published_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "description": "Adaptive learning algorithms (ALAs) is an important class of agents that learn the utilities of their strategies jointly with the maintenance of the beliefs about their counterparts' future actions. In this paper, we propose an approach of learning in the presence of adaptive counterparts. Our Q-learning based algorithm, called Adaptive Dynamics Learner (ADL), assigns Q-values to the fixed-length interaction histories. This makes it capable of exploiting the strategy update dynamics of the adaptive learners. By so doing, ADL usually obtains higher utilities than those of equilibrium solutions. We tested our algorithm on a substantial representative set of the most known and demonstrative matrix games. We observed that ADL is highly effective in the presence of such ALAs as Adaptive Play Q-learning, Infinitesimal Gradient Ascent, Policy Hill-Climbing and Fictitious Play Q-learning. Further, in self-play ADL usually converges to a Pareto efficient average utility.",
+      "url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.156.3623&rep=rep1&type=pdf"
+    },
+    {
+      "name": "Adaptive Play Q-Learning with Initial Heuristic Approximation",
+      "publisher": "In Proceedings of ICRA-07, the IEEE International Conference on Robotics and Automation",
+      "published_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "description": "The problem of an effective coordination of multiple autonomous robots is one of the most important tasks of the modern robotics. In turn, it is well known that the learning to coordinate multiple autonomous agents in a multiagent system is one of the most complex challenges of the state-of-the-art intelligent system design. Principally, this is because of the exponential growth of the environment's dimensionality with the number of learning agents. This challenge is known as \"curse of dimensionality\", and relates to the fact that the dimensionality of the multiagent coordination problem is exponential in the number of learning agents, because each state of the system is a joint state of all agents and each action is a joint action composed of actions of each agent. In this paper, we address this problem for the restricted class of environments known as goal-directed stochastic games with action-penalty representation. We use a single-agent problem solution as a heuristic approximation of the agents' initial preferences and, by so doing, we restrict to a great extent the space of multiagent learning. We show theoretically the correctness of such an initialization, and the results of experiments in a well-known two-robot grid world problem show that there is a significant reduction of complexity of the learning process.",
+      "url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.1221&rep=rep1&type=pdf"
+    },
+    {
+      "name": "Multiagent learning in adaptive dynamic systems",
+      "publisher": "In Proceeding of the AAMAS-07 The Sixth International Joint Conference on Autonomous Agents and Multiagent Systems",
+      "published_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "description": "Classically, an approach to the multiagent policy learning supposed that the agents, via interactions and/or by using preliminary knowledge about the reward functions of all players, would find an interdependent solution called \"equilibrium\". Recently, however, certain researchers question the necessity and the validity of the concept of equilibrium as the most important multiagent solution concept. They argue that a \"good\" learning algorithm is one that is efficient with respect to a certain class of counterparts. Adaptive players is an important class of agents that learn their policies separately from the maintenance of the beliefs about their counterparts' future actions and make their decisions based on that policy and the current belief. In this paper, we propose an efficient learning algorithm in presence of the adaptive counterparts called Adaptive Dynamics Learner (ADL), which is able to learn an efficient policy over the opponents' adaptive dynamics rather than over the simple actions and beliefs and, by so doing, to exploit these dynamics to obtain a higher utility than any equilibrium strategy can provide. We tested our algorithm on a substantial representative set of the most known and demonstrative matrix games and observed that ADL agent is highly efficient against Adaptive Play Q-learning (APQ) agent and Infinitesimal Gradient Ascent (IGA) agent. In self-play, when possible, ADL is able to converge to a Pareto optimal strategy maximizing the welfare of all players.",
+      "url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.156.1225&rep=rep1&type=pdf"
+    }
+  ],
+  "accomplishment_honors_awards": [
+    {
+      "title": "National scholarship",
+      "issuer": "Le Fonds qu\u00e9b\u00e9cois de la recherche sur la nature et les technologies, Quebec, Canada",
+      "issued_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "description": null
+    },
+    {
+      "title": "Distinction scholarship",
+      "issuer": "Sevastopol National Technical University",
+      "issued_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "description": null
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [
+    {
+      "name": "Computational Graph Theory",
+      "number": null
+    },
+    {
+      "name": "Computing for Data Analysis",
+      "number": null
+    },
+    {
+      "name": "Data Analysis",
+      "number": null
+    },
+    {
+      "name": "Machine Learning",
+      "number": null
+    },
+    {
+      "name": "Multiagent Systems",
+      "number": null
+    },
+    {
+      "name": "Optimization",
+      "number": null
+    }
+  ],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2013
+      },
+      "ends_at": null,
+      "name": "Data Analysis \u2014 Johns Hopkins University",
+      "license_number": null,
+      "display_source": "dropbox.com",
+      "authority": "Coursera",
+      "url": "https://www.dropbox.com/s/54o1g85yuzkfvjf/Coursera_Certificate_v1-294297622.pdf?dl=0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2013
+      },
+      "ends_at": null,
+      "name": "Computing for Data Analysis \u2014 Johns Hopkins University (with distinction)",
+      "license_number": null,
+      "display_source": "dropbox.com",
+      "authority": "Coursera",
+      "url": "https://www.dropbox.com/s/fpdh6qvb4cs2cht/Coursera_Certificate_v1-970404297622.pdf?dl=0"
+    }
+  ],
+  "connections": 27388,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/tunguz",
+      "name": "Bojan Tunguz, Ph.D.",
+      "summary": "Machine Learning at NVIDIA | Physicist | Quadruple Kaggle Grandmaster",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/svpino",
+      "name": "Santiago Valdarrama",
+      "summary": "I tell stories about technology and teach hard-core Machine Learning at ml.school.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/davelanger",
+      "name": "David Langer",
+      "summary": "Analytics demystified. I help you (or your team) have more impact using data.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/vipulppatel",
+      "name": "Vipul Patel",
+      "summary": "Chief Artificial Intelligence Officer @ Elevate AI | Multimodal and Generative AI technologies",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/naikkrish",
+      "name": "Krish Naik",
+      "summary": "Co-Founder & CIO at iNeuron.ai Acquired By PhysicsWallah, Youtube (820K+ Subscribers)",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sebastianraschka",
+      "name": "Sebastian Raschka, PhD",
+      "summary": "Machine learning and AI researcher since the early days \u2022 coding and working with LLMs at Lightning AI \u2022 ex-statistics professor at University of Wisconsin-Madison",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/aishwarya-srinivasan",
+      "name": "Aishwarya Srinivasan",
+      "summary": "Senior AI Advocate | LinkedIn Top Voice Data & AI | EB1A Recipient | 470k+ Followers | Ex- Google, Ex-IBM",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/yann-lecun",
+      "name": "Yann LeCun",
+      "summary": "VP & Chief AI Scientist at Meta",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/dalianaliu",
+      "name": "Daliana Liu",
+      "summary": "Data Scientist, \u201cThe Data Scientist Show\" Podcast, 100k+ Followers",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/kirkdborne",
+      "name": "Kirk Borne, Ph.D.",
+      "summary": "Founder, Data Leadership Group (Data Scientist. Top Influencer. Speaker. Trainer. Consultant). Advisor to DataPrime Inc.",
+      "location": null
+    }
+  ],
+  "recommendations": [
+    "Anusha Kota\n\n\n\nKnowledgeable. Insightful. Passionate. Forward thinking. These are some of the words I think best describe Andriy. Throughout our four years of collaboration, I have consistently been impressed by his depth of knowledge, insightful perspectives, and unwavering passion for his work. I have also seen him navigating and overcoming various challenges with diligence and skill. His use of innovative ML/AI techniques has been instrumental in addressing a diverse range of business challenges. From navigating real-time data to minimize false positive insights to developing cutting-edge conversational interfaces/chatbots, Andriy consistently demonstrates a keen ability to apply forward-thinking solutions. One of his standout qualities is his commitment to providing realistic feedback. In a field as dynamic as ML/AI, clear communication is crucial, and Andriy excels at setting expectations from the outset. He doesn't beat around the bush; instead, he offers straightforward and pragmatic insights into what problems can be effectively addressed through ML/AI.",
+    "Catherine Paulin\n\n\n\nI had the pleasure of working under the leadership of Andriy during my time at Gartner within the ML team. Andriy is a true expert in AI, having authored insightful books on the subject. His commitment to staying at the forefront of AI advancements greatly benefited our team.\n\nAndriy generously shared his knowledge during our standups meeting, even providing us with extracts from his books when needed. Beyond that, he understood the importance of embracing new technologies. He encouraged us to explore and experiment, evaluating the potential application of emerging AI tools to our current and past projects.\n\nWhat sets Andryi apart is not only his technical expertise but also his exceptional leadership. He embody the qualities of a true leader\u2014approachable, understanding, and always willing to support both professionally and personally. I highly recommend Andriy to anyone seeking a leader who not only excels in AI but also fosters a culture of continuous learning and innovation."
+  ],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+}
